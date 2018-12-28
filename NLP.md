@@ -9,12 +9,12 @@ http://yagami12.hatenablog.com/entry/2017/12/30/175113
 http://web.stanford.edu/class/cs224n/syllabus.html
  
 ## Word to vec
-http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
-http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
-https://arxiv.org/pdf/1301.3781.pdf
-https://nlp.stanford.edu/pubs/glove.pdf
-http://www.aclweb.org/anthology/Q15-1016
-http://www.aclweb.org/anthology/D15-1036
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model<br>
+http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf<br>
+https://arxiv.org/pdf/1301.3781.pdf<br>
+https://nlp.stanford.edu/pubs/glove.pdf<br>
+http://www.aclweb.org/anthology/Q15-1016<br>
+http://www.aclweb.org/anthology/D15-1036<br>
 
 ## Recurrent Neural Networks and Language Models
 https://web.stanford.edu/~jurafsky/slp3/4.pdf

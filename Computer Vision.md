@@ -32,5 +32,5 @@ https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b<br>
 
 
 ## Autoencoder
-https://www.doc.ic.ac.uk/~js4416/163/website/autoencoders/
+https://www.doc.ic.ac.uk/~js4416/163/website/autoencoders/<br>
 Variational Autoencoder: https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24, 

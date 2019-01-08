@@ -17,3 +17,6 @@ https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing<br>
 
 ## Math:
 https://mml-book.github.io/<br>
+
+## Loss funtion:
+https://isaacchanghau.github.io/post/loss_functions/

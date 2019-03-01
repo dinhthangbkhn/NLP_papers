@@ -2,4 +2,5 @@
 
 https://qiita.com/tsuruokax/items/90167693f142ebb55a7d <br>
 https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9 <br>
-https://qiita.com/skotaro/items/7fee4dd35c6d42e0ebae
+https://qiita.com/skotaro/items/7fee4dd35c6d42e0ebae<br>
+https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff

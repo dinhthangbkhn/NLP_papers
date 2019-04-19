@@ -40,3 +40,6 @@ https://arxiv.org/abs/1408.5882<br>
 https://arxiv.org/abs/1207.0580<br>
 https://arxiv.org/pdf/1404.2188.pdf<br>
 
+## Text Classification 
+https://arxiv.org/pdf/1904.08067.pdf
+
